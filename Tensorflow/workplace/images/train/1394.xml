@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mask</folder>
+	<filename>1394.jpg</filename>
+	<path>D:\New Masks Dataset\Train\Mask\1394.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2521</width>
+		<height>1420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymin>533</ymin>
+			<xmax>1433</xmax>
+			<ymax>1007</ymax>
+		</bndbox>
+	</object>
+</annotation>

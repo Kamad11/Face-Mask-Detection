@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Non Mask</folder>
+	<filename>real_01073.jpg</filename>
+	<path>D:\New Masks Dataset\Test\Non Mask\real_01073.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>224</ymin>
+			<xmax>495</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>
